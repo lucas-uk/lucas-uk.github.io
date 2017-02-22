@@ -1,21 +1,23 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         Kramdown
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Laboratory of Urban Complexity and Sustainability
+tagline:          'LUCAS'
+description:      'The LUCAS blog about modelling sustainable urban habitats'
+url:              https://julianrosser.bitbucket.io
 baseurl:          /
+#baseurl:          /~ezzjfr/test_blog/_site/
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
+  email:          julian@offspring.net
 
 paginate:         5
 
@@ -24,3 +26,5 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+gems: [jekyll-paginate]
