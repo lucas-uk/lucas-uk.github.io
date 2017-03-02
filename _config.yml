@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            Laboratory of Urban Complexity and Sustainability
 tagline:          'LUCAS'
 description:      'News and updates from the University of Nottingham LUCAS group'
-url:              https://julianrosser.bitbucket.io
+url:              http://lucas-uk.github.io
 baseurl:          /
 #baseurl:          /~ezzjfr/test_blog/_site/
 
