@@ -12,7 +12,6 @@ tagline:          'LUCAS'
 description:      'News and updates from the University of Nottingham LUCAS group'
 url:              http://lucas-uk.github.io
 baseurl:          /
-#baseurl:          /~ezzjfr/test_blog/_site/
 
 author:
   name:           'LUCAS blogger'
