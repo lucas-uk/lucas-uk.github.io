@@ -9,15 +9,15 @@ relative_permalinks: false
 # Setup
 title:            Laboratory of Urban Complexity and Sustainability
 tagline:          'LUCAS'
-description:      'The LUCAS blog about modelling sustainable urban habitats'
+description:      'News and updates from the University of Nottingham LUCAS group'
 url:              https://julianrosser.bitbucket.io
 baseurl:          /
 #baseurl:          /~ezzjfr/test_blog/_site/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-  email:          julian@offspring.net
+  name:           'LUCAS blogger'
+  url:            https://nottingham.ac.uk/research/groups/lucas/index.aspx
+  email:          lucas-info@nottingham.ac.uk
 
 paginate:         5
 
@@ -25,6 +25,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+ repo:           https://github.com/lucas-uk/
 
 gems: [jekyll-paginate]
