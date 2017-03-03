@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Darren Robinson
+title: Simulation of energy use talk at CIBSE
 ---
 
 Last month Darren Robinson gave a talk as part of the event "Urban microclimate: overcoming obstacles to high density resilient cities" organised by [Chartered Institution of Building Services Engineers (CIBSE)](http://www.cibse.org/). 
