@@ -15,6 +15,14 @@ layout: null
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
           <link>{{ post.url | prepend: site.url }}</link>
           <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+		  
+		  <image>
+			<url>https://www.w3schools.com/images/logo.gif</url>
+			<title>W3Schools.com</title>
+			<link>https://www.w3schools.com</link>
+			</image>
+  
+  
         </item>
       {% endunless %}
     {% endfor %}
