@@ -11,18 +11,12 @@ layout: null
       {% unless post.draft %}
         <item>
           <title>{{ post.title | xml_escape }}</title>
-          <description>{{ post.content | xml_escape }}</description>
+            <description>
+                <![CDATA[{{ post.content | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
+            </description>
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
           <link>{{ post.url | prepend: site.url }}</link>
-          <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
-		  
-		  <image>
-			<url>https://www.w3schools.com/images/logo.gif</url>
-			<title>W3Schools.com</title>
-			<link>https://www.w3schools.com</link>
-			</image>
-  
-  
+          <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>          
         </item>
       {% endunless %}
     {% endfor %}
