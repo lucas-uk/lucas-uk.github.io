@@ -2,6 +2,8 @@
 layout: post
 title: The LUCAS group travels to Shanghai
 ---
+*Written by [Stephen Parkes](https://www.nottingham.ac.uk/geography/people/stephen.parkes)*
+
 
 Members of LUCAS have recently returned from attending the [Urban Transitions Global Summit 2016](https://www.elsevier.com/events/conferences/urban-transitions-global-summit) in Shanghai. With Shanghai one of the cities at the heart of our research efforts, this Global Summit provided a valuable opportunity to spend time in the city and expand our knowledge of the dynamics and systems operating within this vast urban habitat. 
 
