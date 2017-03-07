@@ -13,6 +13,7 @@ layout: null
           <title>{{ post.title | xml_escape }}</title>
             <description>
                 <![CDATA[{{ post.content | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
+				<![CDATA[ <br><a href="{{ post.url | prepend: site.url }}">Read more</a>]]>
             </description>
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
           <link>{{ post.url | prepend: site.url }}</link>
