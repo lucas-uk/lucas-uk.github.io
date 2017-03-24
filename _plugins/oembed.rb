@@ -18,6 +18,7 @@
 ##
 require 'oembed'
 require 'uri'
+require 'xmlsimple'
 
 # register all default OEmbed providers
 ::OEmbed::Providers.register_all()

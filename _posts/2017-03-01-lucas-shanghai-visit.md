@@ -47,7 +47,6 @@ Darren and Kunpeng of LUCAS
 In all, the trip was a great success. We met and spoke to many interesting people, both within the conference and beyond. Shanghai is a fascinating city. As with all global cities, it faces many challenges now and into the future: housing its growing population, ensuring a liveable environment for its residents, and creating jobs and opportunities. 
 
 ![View from metro 1]({{ site.url }}/public/images/2016-09-05_019.jpg)  | ![View from metro 2]({{ site.url }}/public/images/2016-09-05_017.jpg) 
-2016-09-05_019 | 2016-09-05_017
 
 <p align="center">
 Andy Allen of LUCAS
