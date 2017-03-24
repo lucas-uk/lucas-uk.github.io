@@ -3,7 +3,7 @@ layout: post
 title: Welcome Amanda and TrungHieu!
 ---
 
-Amanda Winter and TrungHieu Tran recently joined LUCAS as Leverhulme Fellows on the [Sustaining Urban Habitats](http://www.nottingham.ac.uk/research/groups/lucas/research/sustaining-urban-habitats-an-interdisciplinary-approach.aspx) project.
+Amanda Winter and TrungHieu Tran recently joined LUCAS as [Leverhulme Fellows](http://www.nottingham.ac.uk/research/groups/lucas/people/research-fellows.aspx) on the [Sustaining Urban Habitats](http://www.nottingham.ac.uk/research/groups/lucas/research/sustaining-urban-habitats-an-interdisciplinary-approach.aspx) project.
 
 Amanda recently completed her PhD at the [Central European University](https://www.ceu.edu) and joins [Simon Roberts](http://www.nottingham.ac.uk/sociology/people/simon.roberts) on investigating issues and role of policy and governance in creating and managing sustainable cities.
 
