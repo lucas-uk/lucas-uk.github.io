@@ -9,7 +9,7 @@ Amanda recently completed her PhD at the [Central European University](https://w
 
 ![Amanda Winter](http://www.nottingham.ac.uk/Research/Groups/lucas/People/staff-images/amanda-winter.jpg "Amanda Winter - Research Fellow")
 
-TrungHieu joins us from [University of Warwick](http://www.warwick.ac.uk) and is investigating agent-based modelling of sustainable city development with [Peer-Olaf Siebers](http://www.nottingham.ac.uk/computerscience/people/peer-olaf.siebers) and [Paul Nathanail](http://www.nottingham.ac.uk/geography/people/paul.nathanail). 
+TrungHieu joins us from [University of Warwick](http://www.warwick.ac.uk) and is investigating agent-based modelling of sustainable city development with [Peer-Olaf Siebers](http://www.nottingham.ac.uk/computerscience/people/peer-olaf.siebers), [Paul Nathanail](http://www.nottingham.ac.uk/geography/people/paul.nathanail) and Darren Robinson. 
 
 ![TrungHieu Tran](http://www.nottingham.ac.uk/Research/Groups/lucas/People/staff-images/trunghieu-tran.jpg "TrungHieu Tran - Research Fellow")
 
