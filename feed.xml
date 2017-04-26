@@ -12,7 +12,7 @@ layout: null
         <item>
           <title>{{ post.title | xml_escape }}</title>
             <description>
-                <![CDATA[{{ post.content | truncatewords: 45 | expand_urls: site.url | cdata_escape }}]]>
+                <![CDATA[{{ post.content | truncatewords: 43 | expand_urls: site.url | cdata_escape }}]]>
 				<![CDATA[ <br><a href="{{ post.url | prepend: site.url }}">Read more</a>]]>
             </description>
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
