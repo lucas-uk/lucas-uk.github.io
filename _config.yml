@@ -26,4 +26,6 @@ version:          2.1.0
 github:
  repo:           https://github.com/lucas-uk/
 
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
