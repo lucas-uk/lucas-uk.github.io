@@ -215,7 +215,7 @@ a.sidebar-nav-item:focus {
 
 
 
-/* LUCAS */
+/* LUCAS additions */
 .theme-base-LUCAS .sidebar {
   background-color: #bcbcbc;
   color: #ffffff;
@@ -224,6 +224,25 @@ a.sidebar-nav-item:focus {
 .theme-base-LUCAS .related-posts li a:hover {
   color: #007ea6;
 }
+
+/*iframe container for LUCAS maps and videos */
+.iframe-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.iframe-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
 
 /* About section */
 .theme-base-LUCAS .sidebar h1 {
