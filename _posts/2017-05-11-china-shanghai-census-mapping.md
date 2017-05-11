@@ -22,7 +22,7 @@ The first map shows the origins of interprovincial migrants in Shanghai. It is c
 [Fullscreen map](https://lucas-uk.github.io/shanghaiR/numbersOfChinaMigrantsToShanghai.html)
 
 
-The boundaries, base data and migration figures for the map have been taken from [GADM](http://gadm.org/) database, [OpenStreetMap](http://openstreetmap.org) respectively and [census data](http://www.stats-sh.gov.cn/data/toTjnj.xhtml?y=2010) . 
+The boundaries, base data and migration figures for the map have been taken from [GADM](http://gadm.org/) database, [OpenStreetMap](http://openstreetmap.org) respectively and [census data](http://www.stats-sh.gov.cn/data/toTjnj.xhtml?y=2010). 
 
 ## Location of migrants within Shanghai
 
