@@ -2,7 +2,7 @@
 layout: post
 title: Mapping migration data for China and Shanghai
 ---
-*Written by [Stephen Parkes](https://www.nottingham.ac.uk/geography/people/stephen.parkes). and [Julian Rosser](http://www.nottingham.ac.uk/engineering/people/julian.rosser)*
+*Written by [Stephen Parkes](https://www.nottingham.ac.uk/geography/people/stephen.parkes) and [Julian Rosser](http://www.nottingham.ac.uk/engineering/people/julian.rosser)*
 
 Migration within China has accelerated rapidly in recent decades, a characteristic of the substantial expansion of the country’s economy and the growing demand for urban living. As part of our work studying Shanghai we have been examining the patterns of migration to the city, based on data available through the 2010 national census. 
  
