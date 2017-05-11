@@ -33,7 +33,7 @@ In the second map we observe where within the city boundary the migrants have lo
     <iframe src="https://lucas-uk.github.io/shanghaiR/shanghaiMigrantsDensityMap.html" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
-[Full screen map](https://lucas-uk.github.io/shanghaiR/shanghaiMigrantsDensityMap.html)
+[Fullscreen map](https://lucas-uk.github.io/shanghaiR/shanghaiMigrantsDensityMap.html)
 
 
 The extract of [census data](http://www.stats-sh.gov.cn/data/toTjnj.xhtml?y=2010) used for mapping migration was for 2010, and since the Shanghai district boundaries have changed since that time the current data available from GADM was unsuitable for the city scale mapping. To try and address this, we extracted 2010 data of [OpenStreetMap](https://openstreetmap.org) using the contribution history drawn from the [OSM planet database](https://planet.openstreetmap.org/planet/full-history/). However, a clear lack of quality OSM contributions in 2010 was apparent with the geometry of many districts seen to be incomplete. Thus, OSM 2014 boundary data was adopted with certain district migration counts merged to create values consistent with the more recent mapping.
