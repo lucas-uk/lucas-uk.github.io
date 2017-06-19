@@ -18,11 +18,11 @@ This convergence on the understanding of the sharing economy is likely continue 
 
 Trevlig resa!
 
-More information about Phil's work is available on his [website](http://northall.wixsite.com/home)
+*More information about Phil's work is available on his [website](http://northall.wixsite.com/home)*
 
 ![Phil Northall at 4th International Workshop on the Sharing Economy in Sweden]({{ site.url }}/public/images/Phil-in-lund.jpg) 
 <p align="center">
-Phil Northall at 4th International Workshop on the Sharing Economy in Sweden
+Phil Northall at Lund University
 </p>
 
 
