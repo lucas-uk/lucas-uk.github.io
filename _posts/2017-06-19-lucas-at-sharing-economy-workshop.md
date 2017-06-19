@@ -20,7 +20,7 @@ Trevlig resa!
 
 *More information about Phil's work is available on his [website](http://northall.wixsite.com/home)*
 
-![Phil Northall at 4th International Workshop on the Sharing Economy in Sweden]({{ site.url }}/public/images/Phil-in-lund.jpg) 
+![Phil Northall at 4th International Workshop on the Sharing Economy in Sweden]({{ site.url }}/public/images/Phil-in-Lund.jpg) 
 <p align="center">
 Phil Northall at Lund University
 </p>
