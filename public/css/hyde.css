@@ -58,6 +58,9 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  background-image: url(../lenton_blur.jpg);
+  background-size:cover; /*ahh magic css 3 */
+  
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -225,7 +228,7 @@ a.sidebar-nav-item:focus {
 	margin-left: auto;
 	margin-right: auto;
 }
- 
+ /*
 .logo{
 background-size: contain;
 background-position: center;
@@ -238,6 +241,7 @@ background-position: center;
     margin-left: 25%;
     margin-right: 25%;
 }
+*/
 
 .theme-base-LUCAS .content a,
 .theme-base-LUCAS .related-posts li a:hover {
@@ -271,6 +275,7 @@ background-position: center;
  font-family: "PT Sans", Helvetica, Arial, sans-serif;
  font-weight: bold;	 
   font-size: 2.0rem;
+  
 }
 
 
