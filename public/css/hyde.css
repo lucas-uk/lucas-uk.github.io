@@ -58,7 +58,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
-  background-image: url(../lenton_blur.jpg);
+  background-image: url(../lenton_blur_small.jpg);
   background-size:cover; /*ahh magic css 3 */
   
 }
