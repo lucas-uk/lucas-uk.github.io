@@ -12,7 +12,7 @@ Over the last years, 3D city models have become increasingly common. [CityGML](h
 Example CityGML 3D model view at Levels of Detail 1 -4 (needs HTML5)
 </p>
 <div class="iframe-container">
-    <iframe src="https://lucas-uk.github.io/WebGL-model-demo/Apps/model_lod.html" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://lucas-uk.github.io/WebGL-model-demo/Apps/iframe_wrapper.html" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 [Fullscreen model viewer](https://lucas-uk.github.io/WebGL-model-demo/Apps/model_lod.html)
