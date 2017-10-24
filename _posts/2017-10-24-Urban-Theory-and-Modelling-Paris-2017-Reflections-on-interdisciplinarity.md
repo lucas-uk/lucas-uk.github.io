@@ -8,6 +8,10 @@ LUCAS’ [Ben Purvis]( https://www.researchgate.net/profile/Ben_Purvis) recently
 Much of the discussion was focused around hypotheses of scaling laws for urban systems. These ‘laws’ follow from Kleiber’s observation in the 1940s that the metabolic rate of various animals seems to scale with their body mass with an exponent of ¾, i.e. a log-log plot of the two parameters produces a straight line with gradient ¾, as shown in the diagram below. With parallels drawn between urban systems and living organisms, it was natural that urban theory literature would arise considering the scaling of city size with various urban attributes. A key example of this is presented by [Bettencourt et al](http://www.pnas.org/content/104/17/7301.long) in 2007, with examples of a diverse range of parameters such as new patents, GDP, serious crimes, and length of electrical cables.
 
 ![Kleiber’s Law, taken from https://universe-review.ca/R10-35-metabolic.htm]({{ site.url }}/public/images/I10-83-metabolic.jpg) 
+<p align="center">
+Kleiber’s Law, taken from <a href="https://universe-review.ca/R10-35-metabolic.htm">https://universe-review.ca/R10-35-metabolic.htm</a>
+</p>
+
 
 These so called scaling laws remain controversial however, Batty explained that whilst there appeared to be a strong correlation, with a non-linear exponent, in rank-size for the largest cities in the US, this correlation became weaker on the inclusion of the not dissimilar cities of Canada. In her keynote, Arcaute presented work that investigated the somewhat arbitrarily defined boundaries of cities, and how changing this definition based upon population density affected the exponent of various scaling laws. This work is presented in a [2016 paper](http://www.sciencedirect.com/science/article/pii/S0198971516300448?via=ihub), and provides evidence that urban scaling values are sensitive to the definition of the city.
 
