@@ -15,7 +15,7 @@ layout: none
 			<![CDATA[{{ post.content | truncatewords: 43 | expand_urls: site.url | cdata_escape }}]]>
 			<![CDATA[ <br><a href="{{ post.url | prepend: site.url }}">Read more</a>]]>
 		</description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+	    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ site.url }}/{{ post.url }}</link>
         <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
       </item>
