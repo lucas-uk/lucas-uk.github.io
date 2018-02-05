@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joel Glovier's Blog</title>
+    <description>The personal site of Joel Andrew Glovier, designer and front-end technologist. Where I write about code, design, faith, food, and life. Views expressed are my own. Use code at your own risk.</description>
+    <link>http://joelglovier.com</link>
+    <atom:link href="http://joelglovier.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>So you want to start vaping</title>
+        <description>&lt;p&gt;Recently, a friend told me he wanted to quit dipping, and get into vaping. He asked me for some basic info on where to get started, so I wrote out some of the stuff I thought was the essential info for getting started.&lt;/p&gt;
+
+&lt;p&gt;Since I hate to do something more than once I figured I’d share this here so I can point anyone else who asks me the same question to this as a resource.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-vape&quot;&gt;Why vape?&lt;/h1&gt;
+
+&lt;p&gt;Everyone vapes for different reasons, but the most common is because it’s a safer altenative to smoking.&lt;/p&gt;
+
+&lt;p&gt;But it’s also something that I find value in for many other reasons.&lt;/p&gt;
+
+&lt;p&gt;Lots of folks like the subculture of vaping, especially those into dripping (a certain style of tank setup; more on that below). There are a lot of ways you can customize your setup, from coil and wick builds to box mods, and the customization and hardware hacking aspect is a big draw for a lot of people.&lt;/p&gt;
+
+&lt;p&gt;Others love the cloud blowing because let’s be real, who doesn’t want to be able to blow smoke like a dragon?! There are even cloud blowing competitions, and sponsored “cloud chasers”. &lt;a href=&quot;https://www.google.com/search?q=get+it+you+vape&amp;amp;safe=active&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwic97Xuup_RAhWLMSYKHYU6BKEQ_AUICCgB&amp;amp;biw=1276&amp;amp;bih=1320&quot;&gt;We get it, you vape&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For me, I mostly enjoy vaping because of the effect of the nicotine on my brain, and the substitue that vaping provides me for snacking.&lt;/p&gt;
+
+&lt;p&gt;I’ve found nicotine to be a very effective and helpful stimulant (as opposed to coffee, which I do not drink because it gives me migraines). It has also been found to treat symptoms of depression, which I have and take prescription medication for. And, it helps me think more clearly, which is something that many stimulants do (e.g. coffee) that many people take regular advantage of.&lt;/p&gt;
+
+&lt;p&gt;The other big benefit for me besides mental effect is that it has improved my propensity toward snacking. When I’m working, I’m usually focused and thinking hard, which often leads me to want to snack. Instead, I puff on my vape and the flavor and puffing experience satisfies my snacking desire.&lt;/p&gt;
+
+&lt;h1 id=&quot;is-vaping-safe&quot;&gt;Is vaping safe?&lt;/h1&gt;
+
+&lt;p&gt;More than smoking or dipping? Absolutely. More than not vaping at all? Unlikely, but who knows.&lt;/p&gt;
+
+&lt;p&gt;This is still a hot topic of debate as legislators and the medical community try to figure out what to do with this whole new industry that has exploded on the scene in just the span of a few years.&lt;/p&gt;
+
+&lt;p&gt;The most important thing to understand about vaping and your personal health is that traditional smoking of tobacco involves combustion (the actual burning process), which is where virtually all of the carcinogens come from.&lt;/p&gt;
+
+&lt;p&gt;Vaping, however, does not involve combustion. Instead, vaping is the process of heating the material high enough to be turned into a vapor, but not hot enough to burn.&lt;/p&gt;
+
+&lt;p&gt;Removing the combustion process from the delivery method entirely is what has led to &lt;a href=&quot;https://www.gov.uk/government/news/e-cigarettes-around-95-less-harmful-than-tobacco-estimates-landmark-review&quot;&gt;studies&lt;/a&gt; &lt;a href=&quot;http://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-14-18&quot;&gt;finding&lt;/a&gt; vaping to be 99% safer than smoking. Even the FDA &lt;a href=&quot;http://motherboard.vice.com/read/the-fda-says-e-cigarettes-are-less-harmful-than-smoking&quot;&gt;testified to it’s saftey&lt;/a&gt; before congress.&lt;/p&gt;
+
+&lt;p&gt;However, others have warned that it’s &lt;a href=&quot;http://www.telegraph.co.uk/science/2016/03/12/e-cigarettes-are-no-safer-than-smoking-tobacco-scientists-warn/&quot;&gt;not as safe&lt;/a&gt; &lt;a href=&quot;https://www.sciencenews.org/article/vaping-linked-host-new-health-risks&quot;&gt;as it seems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The truth is that while vaping is almost certainly safer than smoking, the full healthy effects of vaping are really unknown because there is relatively little research yet on the long term effects of vaping given it’s young age as a presence in our collective attention.&lt;/p&gt;
+
+&lt;p&gt;For me, the health risks are low enough that I’m comfortable with viewing vaping as a relatively healthy part of my life, given the benefits I find in it. But it’s also something I continually assess with being aware of the latest research and evaluating how it’s affecting my own body and health to determine if it’s something that really worth the benefits.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-you-need-to-know-about-vaping-equipment&quot;&gt;What you need to know about vaping equipment&lt;/h1&gt;
+
+&lt;p&gt;There are basically two types of vape units you can use. The first I’ll call an “atomizer setup”, and the second I’ll call a “drip setup” (although technical terms in the industry vary).&lt;/p&gt;
+
+&lt;h2 id=&quot;the-atomizer-setup&quot;&gt;The Atomizer setup&lt;/h2&gt;
+
+&lt;p&gt;An atomizer setup refers to a tank style that is self-enclosed, refillable, and features prebuilt coil units that you purchase in packs. They are a lot easier to use than drip setups (more on that later), and if you don’t want to have a lot of maintenance, or are not intersted in getting into the nerdy hardware customization world, then this is the route for you.&lt;/p&gt;
+
+&lt;p&gt;Atomizers vape juice best at a 50pg/50vg ratio (that’s where you get the best flavor, at least). The coil refills are not very expensive ($10 for a 5 pack, which for me will last a 2-3 months), and they save a ton of time and effort over the custom coil builds you have to make for a drip setup.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-drip-setup&quot;&gt;The Drip setup&lt;/h2&gt;
+
+&lt;p&gt;A drip setup refers to a tank style that is not usually a tank at all, but just bare coils and a thick wick on which you “drip” your juice, instead of filling up a tank like you do in the atomizer setup.&lt;/p&gt;
+
+&lt;p&gt;These are significantly more complex to work with, but for many vapers that’s part of the fun. You build your own coils, make your own wicks, and get intimately familiar with things like wattage and ohms. If you’re into all that nerdy shit, you may enjoy a drip setup.&lt;/p&gt;
+
+&lt;p&gt;The other benefit to a drip setup is serious clouds. If you really want to blow huge billowing clouds that will fill a room with vapor, then drip setups are the only way to go, and you’ll want to drip with Max VG% (100% VG is optimal for the best clouds).&lt;/p&gt;
+
+&lt;p&gt;The downside to drip setups is that you use much more juice, and you use it way faster. You’ll typically only get 5-6 draws from your drip setup before you need to pull out your juice and re-drip, whereas with an atomizer setup (with a nice size tank like the Cubis) you’ll fill it up once, and not need to refill for several hours of vaping.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-decide-which-setup-to-use&quot;&gt;How to decide which setup to use&lt;/h2&gt;
+
+&lt;p&gt;It’s really a matter of preference and what you value in your vaping experience. If you want ease of use and convenience, you probably want to get a decent atomizer setup. If you want huge clouds of vapor and the fun of building your own setup, you’ll want to go with a drip setup.&lt;/p&gt;
+
+&lt;p&gt;The price difference in vaping between the two setup styles is not really a factor. With a drip setup, you’ll spend more money on juice since it uses it up faster, but with an atomizer setup you’ll spend more money on buying your coil replacements regularly since building your own coils for a drip setup is cheaper.&lt;/p&gt;
+
+&lt;p&gt;So I’d say the price differences largely cancel out.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-im-into-these-days&quot;&gt;What I’m into these days&lt;/h1&gt;
+
+&lt;p&gt;I’ve been vaping for about two and a half years, and have tried a lot of what vaping has to offer. I’ve tried dozens of different juice flavors and vendors, and lots of different types of mod setups. Here’s what I prefer now after knowing what it’s all like, and considering what I enjoy about vaping.&lt;/p&gt;
+
+&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
+
+&lt;p&gt;I started out with an atomizer setup, and eventually got into the drip setup because I was really interested in the clouds, and the build aspect. After a while, however, the novelty of custom building my coils, wicks, etc wore off, and it just felt annoying.&lt;/p&gt;
+
+&lt;p&gt;So these days for convenience I’m using an Atomizer setup most of the time.&lt;/p&gt;
+
+&lt;p&gt;Both setups will let you use the same battery box, so you can always try out different setups with your same base.&lt;/p&gt;
+
+&lt;p&gt;I’ve tried a few tanks, and my favorite (which I use exclusively now) is the Cubis Pro from Joyetech. You can &lt;a href=&quot;http://sweet-vapes.com/tanks/joyetech/joyetech/joyetech-cubis-pro-4ml-tank.html&quot;&gt;pick one up here&lt;/a&gt; for about $17, and I use the 15-30w coils (usually set on 25w), which you can &lt;a href=&quot;http://sweet-vapes.com/tanks/joyetech/joyetech-coils.html&quot;&gt;find here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As for your battery box, I’ve had several of these, and currently I’m using the IPV mini d3. It’s adjustable up to 75w (for atomizers, you’ll want to set it at the range the coils specify, but if you’re vaping 50vg/50pg blend juice, you’ll probably want to keep it around 25w). This one holds a single battery. You’ll need &lt;a href=&quot;https://www.amazon.com/gp/product/B00NUI46HM/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;some batteries&lt;/a&gt; and &lt;a href=&quot;https://www.amazon.com/gp/product/B0096U26QQ/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;a charger&lt;/a&gt;, too.&lt;/p&gt;
+
+&lt;p&gt;You can get the &lt;a href=&quot;http://www.wakeandvape.com/ipv-d3-80w-tc-box-mod&quot;&gt;IPV mini d3 here&lt;/a&gt; for about $40. I got mine at a local vape shop for about $30 and didn’t have to pay shipping, so def check the deals at your local vape store.&lt;/p&gt;
+
+&lt;h2 id=&quot;juice&quot;&gt;Juice&lt;/h2&gt;
+
+&lt;p&gt;The other really nice thing about a local vape shop is that you can sample flavors, which is a good idea when you are starting out because it’s hard to know what you like without trying it. I’ve bought probably 80-100 bottles of juice in the past couple years (mostly because I just loved trying them all while I was figuring out what I liked).&lt;/p&gt;
+
+&lt;p&gt;I started out with a lot of desert flavors, and now I’m mostly into fruit flavors. I’ve also bought from about a dozen online stores, and nowdays when I buy online I pretty much only buy the basic line from VistaVapors.com because they are great and they are the cheapest I’ve found (I usually buy 100ml’s of a flavor at a time).&lt;/p&gt;
+
+&lt;p&gt;You can also get into making your own juice, but wouldn’t recommend this until you really know what kind of juices you are into.&lt;/p&gt;
+
+&lt;p&gt;Hope this is helpful. &lt;a href=&quot;https://twitter.com/jglovier&quot;&gt;Hollar at me on Twitter&lt;/a&gt; if you have any questions!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+        <link>http://joelglovier.com//writing/so-you-want-to-start-vaping</link>
+        <guid isPermaLink="true">http://joelglovier.com//writing/so-you-want-to-start-vaping</guid>
+      </item>
+    
+      <item>
+        <title>A layman's proposal for addressing the fragility of DNS</title>
+        <description>&lt;p&gt;&lt;em&gt;Disclaimer: I am not an infrastructure expert. My basic knowledge of internet infrastructure has been absorbed through osmosis while being a developer for the last 12 years, so the ideas in this blog post may be completely stupid. If you continue reading, just don’t blame me for wasting precious moments of your life that you will never get back.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Last Friday we saw one of the most widespread outages of significant websites that I can remember, the cause of which was a &lt;a href=&quot;https://www.wired.com/2016/10/internet-outage-ddos-dns-dyn/&quot;&gt;DDoS attack on Dyn&lt;/a&gt;, a major DNS provider.&lt;/p&gt;
+
+&lt;p&gt;Someone was able to successfully DDoS one of Dyn’s hosted clients via an IoT botnet, which rendered their networks unable to effectively serve DNS records for a number of the most popular websites on the internet, including Twitter, Spotify, GitHub, AirBnB, Reddit, Basecamp, Etsy, CNN, Pinterest, Yelp, Netflix, and &lt;a href=&quot;http://gizmodo.com/this-is-probably-why-half-the-internet-shut-down-today-1788062835&quot;&gt;host of others&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is some &lt;a href=&quot;https://www.youtube.com/watch?v=gZjg81D-HT8&quot;&gt;scary shit&lt;/a&gt;. Seriously, the world is not ready for widespread outages of the internet, and there has even been speculation that we’re not just dealing with some isolated, vigilante style attacks, but possibly something &lt;a href=&quot;https://www.schneier.com/blog/archives/2016/09/someone_is_lear.html&quot;&gt;much larger and organized&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Regardless of who was behind Friday’s attack, the fact that a core part of the infrastructure of the internet is so fragile is problematic. But what can be done about it?&lt;/p&gt;
+
+&lt;p&gt;DNS providers will certainly need to ramp up their DDoS mitigation strategies, but focusing on improving DDoS mitigation alone will likely yield the downward spiral of “if you get better armor and I’ll just invent a better gun.”&lt;/p&gt;
+
+&lt;p&gt;So what if the problem could be approached similarly to how Git solved distributed version control?&lt;/p&gt;
+
+&lt;p&gt;The brilliance of Git being a distributed VCS is that when everything goes offline, you can keep working. Git does this by keeping the entire history of a project on every collaborators local copy. So if the centralized host (GitHub.com, BitBucket.com, etc) is unavailable for whatever reason, you can keep working unaffected until you are able to sync your work with the centralized host again.&lt;/p&gt;
+
+&lt;p&gt;The parallel with DNS servers could be similar: if your browser just pings the centralized registry for the server address, why can’t your local machine host the entire registry itself if needed?&lt;/p&gt;
+
+&lt;p&gt;The DNS registry could still function as the centralized host where changes are synced and distributed, but if it is unavailable your machine could simply fallback to your local copy of the registry until the centralized DNS host was available again.&lt;/p&gt;
+
+&lt;p&gt;There are some key challenges to solve in making a solution like this workable, of course, and these are only the challenges on a conceptual level from the eyes of a internet infrastructure layman.&lt;/p&gt;
+
+&lt;p&gt;Some of the key challenges I can identify:&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-get-the-registry-stored-locally&quot;&gt;How to get the registry stored locally&lt;/h3&gt;
+
+&lt;p&gt;It could become a part of your OS as a system level file, or something that browser vendors include in their browser package.&lt;/p&gt;
+
+&lt;h3 id=&quot;storage-size-of-the-registry&quot;&gt;Storage size of the registry&lt;/h3&gt;
+
+&lt;p&gt;Assuming the registry size - even as a text file or CSV - is quite large, it would increase the distribution size of browser packages on your machine several fold. Implications for increase those sizes are that browsers are much more cumbersome to download on anything other than high speed internet connections, and more costly to run on your machine on machines with smaller storage.&lt;/p&gt;
+
+&lt;p&gt;Since I honestly have no clue how large the entire registry is, it might be that this is the fatal flaw in my logic. Or, maybe this would simply force a more realistic constraint, like only storing the top N records, where N criteria is something like most trafficked websites (even storing the top 5,000 records seems reasonable and would alleviate much of the frustration from widespread outages).&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-keep-the-records-up-to-date&quot;&gt;How to keep the records up to date&lt;/h3&gt;
+
+&lt;p&gt;On a daily basis, some number of DNS records are being updated constantly, so how often would your machine have to realistically connect to the host to stay in sync? For this reason pinging the DNS hosts could still serve as the default way to find a server address, and the local records would just be a backup that are synced weekly or some other reasonable period.&lt;/p&gt;
+
+&lt;h3 id=&quot;conflicts-with-dns-providers-business-model&quot;&gt;Conflicts with DNS providers business model&lt;/h3&gt;
+
+&lt;p&gt;This might be the hardest problem to solve, or at least the most problematic. I assume there is a business interest reason that DNS providers may not be too keen to alter their existing hosting model to a distributed model.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;Despite the challenges, one would assume that keeping a registry of the most critical piece of infrastructure to the internet in such a way that accounts for outages shouldn’t be very hard to solve, at least from a technical perspective. But perhaps that assumption just betrays my lack of knowledge about how DNS really works?&lt;/p&gt;
+
+&lt;p&gt;Obviously, the scope of major changes would involve a lot of players from DNS hosts, to browser vendors, and traditionally major changes that involve this many players don’t happen quickly.&lt;/p&gt;
+
+&lt;p&gt;But for the future of the web, they are probably well worth the time and effort.&lt;/p&gt;
+
+&lt;p&gt;So what do you think? Are these dumb ideas? Is there a fundamental flaw in my logic that I missing because I’m just a layman? Or is there any merit to this path forward?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+        <link>http://joelglovier.com//writing/a-laymans-proposal-for-fixing-the-fragility-of-the-dns-registry</link>
+        <guid isPermaLink="true">http://joelglovier.com//writing/a-laymans-proposal-for-fixing-the-fragility-of-the-dns-registry</guid>
+      </item>
+    
+      <item>
+        <title>Five simple goals for 2016</title>
+        <description>&lt;p&gt;&lt;em&gt;NOTE: Ironically enough, I started writing this post around New Year’s Day. However, I’m just now getting around to publishing it. But I promise I’ve been working on living out these themes the entire time.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Some folks think New Year’s resolutions are for weak minded fools susceptible to Jedi mind tricks (or those who can’t keep to healthy living and good habits year around).&lt;/p&gt;
+
+&lt;p&gt;I’m not one of those people. It turns out many of us can actually benefit from a motivational jump start from time to time, and I’m one of those people.&lt;/p&gt;
+
+&lt;p&gt;I’ve been making goals for the coming year since I was a teenager, and for the last few years I’ve started really narrowing them down to a &lt;a href=&quot;/writing/five-simple-goals-for-2014&quot;&gt;list of five&lt;/a&gt; &lt;a href=&quot;/writing/five-simple-goals-for-2015&quot;&gt;themes for the year&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My lists used to be way longer and much more specific, but I found that keeping to a shorter list of vision-like themes was more helpful for me. The themes are parts of a picture that help drive me toward practicing behaviors characteristic of the type of life I want to be living.&lt;/p&gt;
+
+&lt;p&gt;Here is my list for 2016:&lt;/p&gt;
+
+&lt;h2 id=&quot;1-cultivate-a-healthy-worklife-balance&quot;&gt;1. Cultivate a healthy work/life balance&lt;/h2&gt;
+
+&lt;p&gt;My natural tendency is not toward balance. I have to work hard at it. My natural tendency is toward obsession, fixation, and putting my all with laser focus toward accomplishing a single thing. At times that can be good, and at times it can be bad. My work/life balance tends to suffer most because of this trait.&lt;/p&gt;
+
+&lt;p&gt;I have a wonderful job that I love, and I’m very grateful for that. Which means that it’s all that harder to moderate myself when it comes to my work habits.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, I have an employer that does not place unreasonable expectations on me and makes every affordance for me to have a healthy work/life balance.&lt;/p&gt;
+
+&lt;p&gt;Actually taking advantage of that, however, is still on me. And often I don’t. So this year I’m really committed to improving my work/life balance.&lt;/p&gt;
+
+&lt;p&gt;There are some tangible ways that I’m planning to achieve this. The most significant of which is going to be getting in the habit of stopping work for the day at a certain time. The time I stop is less important than the fact that I should actually stop. Too often I tend to break at the end of the day and go back to work after the kids are fed and in bed, when really I should be putting off what didn’t get done until tomorrow.&lt;/p&gt;
+
+&lt;p&gt;To some, that may sound like procrastination. But procrastination is not usually my battle. My battle overachieving and burnout, and to combat that I need to get more used to saying “it can get done tomorrow”.&lt;/p&gt;
+
+&lt;p&gt;There are several other ways that I’m going to address this as well. Some of the other areas are a bit less logistic and more aspirational.&lt;/p&gt;
+
+&lt;p&gt;For example: making intentional, focused time for my kids daily; making more of an effort to prioritize household work (rather than ignoring it until a convenient, which leaves Ashley often feeling like she bears the brunt of those responsibilities); and not being so attached to my phone, email, slack, etc when I’m not working (i.e. being more “present”).&lt;/p&gt;
+
+&lt;p&gt;Finally, there is one big supporting goal I have for this year that will dramatically help improve my work/life balance, and it’s closing Dev Tees down. It’s been a fun run, but I don’t really want to be in the t-shirt business. It’s not worth the cost of operation to me, and even though I don’t put too much time &amp;amp; effort into it I’d much rather be putting that time &amp;amp; effort into my family at this stage of life.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-practice-self-discipline&quot;&gt;2. Practice self-discipline&lt;/h2&gt;
+
+&lt;p&gt;There’s a point in life where you realize as long as you are basically responsible with the fundamentals of being an adult, you can do whatever you want.&lt;/p&gt;
+
+&lt;p&gt;To a point.&lt;/p&gt;
+
+&lt;p&gt;For example, nobody is going to make me eat healthy, or make my bed, or not waste money on things I don’t need. Which can be very freeing, but can also be counter productive. Welcome to adulthood.&lt;/p&gt;
+
+&lt;p&gt;Then there is another point where you realize that if you don’t actually practice a certain amount of self-discipline, you miss out on things you may really want to experience.&lt;/p&gt;
+
+&lt;p&gt;So it turns out being an adult is a lot about finding that balance between exercising your freedoms, and practicing a certain level of self-discipline so you don’t short circuit the things you want to experience.&lt;/p&gt;
+
+&lt;p&gt;So what this means for me this year is a handful of very intentional areas where I’d like to improve my self-discipline.&lt;/p&gt;
+
+&lt;h4 id=&quot;master-my-schedule&quot;&gt;Master my schedule&lt;/h4&gt;
+
+&lt;p&gt;As mentioned, I tend to be very good at having a laser focus on achieving a particular thing. However, many other things suffer when I do this. I tend to be fairly good at just staying on task with work goals, but I suck as basic things like having a set daily schedule.&lt;/p&gt;
+
+&lt;p&gt;This year I want to do better at keeping track of my schedule, and mastering it. That includes my work schedule, and my family schedule (which means no more just expecting Ashley to tell me what’s happening for the week).&lt;/p&gt;
+
+&lt;h4 id=&quot;eliminate-distractions&quot;&gt;Eliminate distractions&lt;/h4&gt;
+
+&lt;p&gt;As a curious person, it’s easy for me to get distracted by almost anything. I don’t just mean in my daily workflow, but in life. Some of it has to do with my analytical and creative nature, and some of it is my deeply wired aversion to boredom.&lt;/p&gt;
+
+&lt;p&gt;But to be truly successful and effective in the areas of life that are most important, I need to actively fight the things that are ultimately distractions.&lt;/p&gt;
+
+&lt;p&gt;What are distractions? Anything that competes for my time and attention with the most important things, and doesn’t serve to support the most important things in any way.&lt;/p&gt;
+
+&lt;h4 id=&quot;go-to-bed-at-a-responsible-time&quot;&gt;Go to bed at a responsible time&lt;/h4&gt;
+
+&lt;p&gt;A very simple practice with profound results, it is well proven by science and medicine that getting enough rest is essential to daily mental and physical performance. So this year I’m working hard on making getting to bed at a responsible time a priority.&lt;/p&gt;
+
+&lt;h4 id=&quot;eat-well-exercise-consistently&quot;&gt;Eat well, exercise consistently&lt;/h4&gt;
+
+&lt;p&gt;Just as important as rest to mental and physical health is nutrition and exercise. This year I really want to get into a physical condition that I can be proud of, and that will permit me to do all the active things I’d really like to be doing (skateboarding, snowboarding, hiking, playing relentlessly with my kids, etc).&lt;/p&gt;
+
+&lt;h4 id=&quot;prioritize-spiritual-growth&quot;&gt;Prioritize spiritual growth&lt;/h4&gt;
+
+&lt;p&gt;Faith is a wonderful and challenging aspect of life, to those who embrace it. The benefits of living a life of faith are many. And so are the challenges.&lt;/p&gt;
+
+&lt;p&gt;As an adult, the biggest challenge for me seems to be engaging in and pursuing spiritual growth at a stage of life where I seem to have so little time, energy, or attention for the things that are not urgent (see also &lt;a href=&quot;http://www.amazon.com/Tyranny-Urgent-Charles-Hummel/dp/087784092X&quot;&gt;Tyranny of the Urgent!&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;And when you have been living with a faith perspective for most of your life, its really easy to put aspects of your spiritual life in cruise control. Which is exactly the opposite of what I need to be doing.&lt;/p&gt;
+
+&lt;p&gt;So this year I’m going to lean into the areas of life that challenge me spiritually and let God use those things to keep maturing me spiritually, rather than coasting on the perspectives and habits of the status quo.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-invest-in-relationships&quot;&gt;3. Invest in relationships&lt;/h2&gt;
+
+&lt;p&gt;My third major theme for 2016 is an intentional effort to invest in relationships. Relationships are one of the most important aspects of life to me. Yet too often I don’t give them the intentional effort they deserve (see again urgent vs important).&lt;/p&gt;
+
+&lt;p&gt;My goal this year in relationships is to make time to invest intentionally in the relationships in my life that are most important, including carving out specific time for my friends, making more intentional time to connect with my Mom and Dad more regularly, and making individual time with each of my kids on a regular basis.&lt;/p&gt;
+
+&lt;p&gt;This also includes prioritizing developing relationships, and keeping up with old friends.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-do-me&quot;&gt;4. Do me&lt;/h2&gt;
+
+&lt;p&gt;For much of my life I’ve lived in many ways for other people. Perhaps I’ve finally just reached the age where I’ve grown out of that, but I now realize that while being sensitive to how who I am affects other people is still important, I have to be who I am, not who other people expect me to be.&lt;/p&gt;
+
+&lt;p&gt;So this year, my fourth theme is just being me. This doesn’t mean in a self-centered, self-absorbed, destructive way. And it doesn’t mean being so set in my ways that I refuse to allow God, or life, or even other people to shape who I am.&lt;/p&gt;
+
+&lt;p&gt;What it means is that I don’t worry about what other people think of me, or what my reputation is to the degree that it hinders me from being myself. It means worrying less about offending others, and just focusing on loving people, and being myself, regardless of how it comes across in my often awkward way.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-dont-let-responsibility-hinder-creativity&quot;&gt;5. Don’t let responsibility hinder creativity&lt;/h2&gt;
+
+&lt;p&gt;The last theme I’ve decided to focus on this year is refusing to let responsibility hinder my creativity.&lt;/p&gt;
+
+&lt;p&gt;As a creative person, I thrive on every opportunity to express creativity. Drawing, making EDM mixes, working on my project car, doing crafts and playing toys with the kids, reading, writing, playing video games, skateboarding and snowboarding, exploring nature – these are just some of the creative outlets that are important to me.&lt;/p&gt;
+
+&lt;p&gt;But as an adult, I also value and prioritize practicing responsibility. Responsibility and creativity aren’t necessarily opposite forces that cancel each other out, but as an adult with three kids, a spouse, a mortgage and home to take care of, family and community commitments, etc…it can certainly feel like they are at odds with each other.&lt;/p&gt;
+
+&lt;p&gt;So this year I am making more of an effort to find ways to combine my creativity and responsibility. And – when possible – give creativity priority in the event that creativity and responsibility are at odds in a given situation. Because the things that make me come to life are just as important as the things I have to do to be a responsible adult.&lt;/p&gt;
+
+&lt;h2 id=&quot;something-something-journey-and-destination&quot;&gt;Something something journey and destination&lt;/h2&gt;
+
+&lt;p&gt;As I’ve noted in past goals articles this exercise is less about the accomplishing of goals, and more about the striving toward a better story.&lt;/p&gt;
+
+&lt;p&gt;I’m well aware of my propensity to fail, and I’m also well aware of the value of having something to strive for. From my experience, it seems that the value of success itself is nominal in comparrison to the value of having a thing to strive for. So while these goals/themes are important for their outcome, the real point for me is to have something to strive toward.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
+        <link>http://joelglovier.com//writing/five-simple-goals-for-2016</link>
+        <guid isPermaLink="true">http://joelglovier.com//writing/five-simple-goals-for-2016</guid>
+      </item>
+    
+      <item>
+        <title>Breaking a year of silence</title>
+        <description>&lt;p&gt;I haven’t blogged in the past year. Actually &lt;a href=&quot;/writing/brokenness-and-restoration/&quot;&gt;more than a year&lt;/a&gt;. The past year turned out to be one of the most difficult of my adult life after my mom was &lt;a href=&quot;/writing/why-we-fear/&quot;&gt;diagnosed with cancer&lt;/a&gt;, and my dad was diagnosed with dementia.&lt;/p&gt;
+
+&lt;p&gt;Through the challenges that those situations and others presented over the past year, I found tons of grace in tangible ways all around me. But understandably, it left me little margin in my life to take time to write.&lt;/p&gt;
+
+&lt;p&gt;I wished I could write. I &lt;em&gt;needed&lt;/em&gt; to write. Writing is one of the most cathartic outlets in my life, and helps keep me feeling sane. I started writing many things in the year, but I found time to complete and publish none of them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-good&quot;&gt;The good&lt;/h2&gt;
+
+&lt;p&gt;On the positive side, not writing gave me one less thing to worry about. One less thing to focus on. And that was critical in a time of life when I have needed every shred of margin I could get.&lt;/p&gt;
+
+&lt;p&gt;My parents were staying with us for a couple days every week while my Mom was going through treatment until just a few weeks ago (her treatment center was very close to our home, but a long distance from theirs).&lt;/p&gt;
+
+&lt;p&gt;My wife and kids have needed my presence and attention like never before in our family’s history. My open source work and side projects have been sorely neglected. And my job has been all consuming lately (well, it always has been).&lt;/p&gt;
+
+&lt;p&gt;So letting go of even one thing was an important reality to maintaining any semblance of balance in my life.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-bad&quot;&gt;The bad&lt;/h2&gt;
+
+&lt;p&gt;And yet, it still wasn’t enough.&lt;/p&gt;
+
+&lt;p&gt;Actually, I didn’t stop worrying about writing, because the constant pressure of wanting to take time to articulate my thoughts in my own venue never got it’s release of actually doing that act.&lt;/p&gt;
+
+&lt;p&gt;And on top of that, I felt like somehow I was personally obligated to write and publish to my blog.&lt;/p&gt;
+
+&lt;p&gt;I felt like I needed to write because I knew in my most difficult times, I needed the time for reflection and processing that writing provides me. And I felt like I needed to publish on my blog for sillier reasons: mostly so that my personal website didn’t get stale, and people didn’t think I didn’t have anything to say.&lt;/p&gt;
+
+&lt;p&gt;The later concern, of course, is silly and I’m learning to let go of that. But the former concern – the need to have an outlet to process and face my inner dialog – is a very legit concern that I take more seriously than I have before.&lt;/p&gt;
+
+&lt;h2 id=&quot;here-we-go-again&quot;&gt;Here we go again&lt;/h2&gt;
+
+&lt;p&gt;My mom has finished treatment and is cancer free, for which I deeply rejoice on many levels. I’ve let go of some of my side projects, and refined my focus in open source work. Things at work have really started to balance out as my role there too has been focused more on the most important things.&lt;/p&gt;
+
+&lt;p&gt;So I have a bit more margin in my life, and I’m back to writing again. This post marks a significant personal milestone in my life. Not because my writing is so important to anyone else, but because &lt;strong&gt;a)&lt;/strong&gt; it’s such an important thing for me to do for myself, and &lt;strong&gt;b)&lt;/strong&gt; because it marks the end of one the most difficult seasons of my life in a very long time.&lt;/p&gt;
+
+&lt;p&gt;So here’s to words.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+        <link>http://joelglovier.com//writing/breaking-a-year-of-silence</link>
+        <guid isPermaLink="true">http://joelglovier.com//writing/breaking-a-year-of-silence</guid>
+      </item>
+    
+      <item>
+        <title>Brokenness and restoration</title>
+        <description>&lt;h3 id=&quot;the-story-of-humanity-is-a-story-of-brokenness&quot;&gt;The story of humanity is a story of brokenness.&lt;/h3&gt;
+
+&lt;p&gt;It’s not hard to see that there is brokenness everywhere, all around us. Broken relationships, broken hearts, broken bodies, broken social constructs, and broken power systems.&lt;/p&gt;
+
+&lt;p&gt;There is literally no realm or area of humanity untouched by brokenness. Brokenness is a reality of the universe we live in, and a reality of who we are.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-story-of-jesus-is-a-story-of-brokenness-too&quot;&gt;The story of Jesus is a story of brokenness, too.&lt;/h3&gt;
+
+&lt;p&gt;It’s a story about a man who didn’t deserve to be broken, being put to death by people who felt threatened by him. It’s a story about how a God who didn’t deserve to be broken took on flesh and allowed himself to be broken by his creation. And it’s a story about how when we are broken, we have an advocate who knows our brokenness, and what it’s like to be broken to the point of death.&lt;/p&gt;
+
+&lt;h3 id=&quot;but-brokenness-is-only-part-of-the-the-jesus-story&quot;&gt;But brokenness is only part of the the Jesus story.&lt;/h3&gt;
+
+&lt;p&gt;After Jesus was put to death, God brought him back to life. New life bursting forth in the midst of death. New creation bursting forth in the middle of the old one. The clear and poignant message that brokenness is not the end of the story, and death doesn’t have the last word.&lt;/p&gt;
+
+&lt;p&gt;The resurrection of Jesus wasn’t just about him, or for him - it was about all of us, and for all of us. It was the start of something new, and the completion of something as old as the world. It was the ultimate act in the story of God restoring all things to himself, and making all things new. Resurrection is the point of the Jesus story.&lt;/p&gt;
+
+&lt;h3 id=&quot;and-brokenness-is-only-part-of-the-story-of-humanity&quot;&gt;And brokenness is only part of the story of humanity.&lt;/h3&gt;
+
+&lt;p&gt;For as much brokenness as we see all around us, there is just as much restoration also. Some things die to make room for new things. Some things break only to be fixed and restored. Does it make brokenness any less tragic, or painful, or traumatic? Certainly not.&lt;/p&gt;
+
+&lt;p&gt;But it does give us hope. It gives us hope that our brokenness can find restoration too. It gives us hope that our restoration can expand beyond ourselves into the lives of others. That we might be part of something bigger than ourselves, and bigger than our own story.&lt;/p&gt;
+
+&lt;p&gt;For those of us who put our faith and trust in Jesus, we have the hope and the promise that the brokenness we experience isn’t the end of our story. And we have the hope and the promise that the brokenness we see in the world isn’t then last word in humanity’s story. We have the hope that our brokenness is not without purpose, and that we can take part in the restoration that God is bringing to the world every single day in millions of unexpected ways.&lt;/p&gt;
+
+&lt;h3 id=&quot;because-restoration-is-the-point-of-the-story&quot;&gt;Because restoration is the point of the story.&lt;/h3&gt;
+</description>
+        <pubDate>Sun, 05 Apr 2015 00:00:00 +0000</pubDate>
+        <link>http://joelglovier.com//writing/brokenness-and-restoration</link>
+        <guid isPermaLink="true">http://joelglovier.com//writing/brokenness-and-restoration</guid>
+      </item>
+    
+      <item>
+        <title>College costs and ROI</title>
+        <description>&lt;p class=&quot;disclaimer&quot;&gt;I &lt;a href=&quot;https://www.facebook.com/joelglovier/posts/10101931050277118&quot; target=&quot;_blank&quot;&gt;recently shared&lt;/a&gt; an article on Facebook which garnered some discussion. Here's some further thoughts.&lt;/p&gt;
+
+&lt;p&gt;I’m not a huge Mark Cuban fan necessarily (watching him on Shark Tank is entertaining, of course), but &lt;a href=&quot;http://www.businessinsider.com/mark-cuban-sweet-briar-college-college-debt-bubble-crisis-2015-3#ixzz3Tu8lrn6S&quot;&gt;he made some comments recently&lt;/a&gt; about the shifting higher education landscape that have made headlines in a few places. I think his comments deserve the attention, because they express a reality that I haven’t heard a lot of people talking about.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-the-value-of-a-college-education&quot;&gt;What is the value of a college education?&lt;/h2&gt;
+
+&lt;p&gt;I’m thankful for my degree for many reasons, but if I had it to do over, I’m certainly would do a lot of things differently. My school itself (or the degree for that matter) has never really opened any special doors for me that I’m aware of.&lt;/p&gt;
+
+&lt;p&gt;I don’t even have a design degree, I have a Communications (with PR specialization) degree. What I did learn that has been helpful tertiarily is about advertising and marketing. That’s certainly helped in my broader job function, but nearly everything I do as my specific job function (design, code) I learned after college via blog posts, tutorials (shout out &lt;a href=&quot;http://tutsplus.com/&quot;&gt;Tuts+&lt;/a&gt; and &lt;a href=&quot;http://teamtreehouse.com/&quot;&gt;Treehouse&lt;/a&gt;), personal projects, etc.&lt;/p&gt;
+
+&lt;p&gt;I did have a very positive experience at my college, and overall I value my college education for helping me develop my ability to learn.&lt;/p&gt;
+
+&lt;p&gt;A good friend and mentor once told me that the value in college is really just learning how to learn. I think that was very true of my experience, and it was certainly helpful to the end of teaching me how to research topics, seek out information, think critically about subject matter, and hone communication skills like writing and speaking.&lt;/p&gt;
+
+&lt;h2 id=&quot;cost-versus-value&quot;&gt;Cost versus value&lt;/h2&gt;
+
+&lt;p&gt;That being said, the cost of such an experience today is harder to justify against the &lt;a href=&quot;http://www.forbes.com/sites/learnvest/2014/08/29/5-steps-to-calculating-your-college-r-o-i/&quot;&gt;ROI in&lt;/a&gt; &lt;a href=&quot;http://www.salary.com/8-college-degrees-with-the-worst-return-on-investment/&quot;&gt;today’s market&lt;/a&gt;, especially if you don’t end up in your field of study &lt;a href=&quot;http://www.washingtonpost.com/local/education/most-with-college-stem-degrees-go-to-other-fields-of-work/2014/07/10/9aede466-084d-11e4-bbf1-cc51275e7f8f_story.html&quot;&gt;as is the case&lt;/a&gt; of many degree holders.&lt;/p&gt;
+
+&lt;p&gt;Granted, some career paths will require you to have a 4 year degree, or higher. And for some careers learning in a university setting makes the most sense, regardless of whether there are other learning alternatives.&lt;/p&gt;
+
+&lt;p&gt;But that is clearly not the case with all career paths, or even the &lt;a href=&quot;http://money.cnn.com/news/newsfeeds/articles/globenewswire/10122644.htm&quot;&gt;highest earning paths&lt;/a&gt; these days. The availabilty of information and learning resources on the web has changed the game specifically for the technology sector.&lt;/p&gt;
+
+&lt;p&gt;I was fortunate enough to get a decent amount of financial aid and scholarships, so my total debt owed at the end of my 4 years was only $20K, which I paid off in just a few years. But if my kids want to go to a school someday and the cost of their education is going to be $60-$100K+ and they’re going to incur the debt of most of it after school, I will certainly caution them to consider the value of their education and the potential ROI carefully.&lt;/p&gt;
+
+&lt;p&gt;Specifically, if I had it to do over again I would likely take a few years to gain some real world working experience first, and save some money toward school, hoping to have a better sense for what I should study, and some money to pay it with. I would most likely pick a state school, or one with more affordable tuition than most private schools.&lt;/p&gt;
+
+&lt;p&gt;What about you? Do you have a college degree that has deemed invaluable in your line of work? Or do you have a college degree that is largely ceremonial? Will you encourage your kids, or the young people in your life to attend college?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/jglovier&quot;&gt;Hollar at me on Twitter&lt;/a&gt; with your thoughts.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Mar 2015 00:00:00 +0000</pubDate>
+        <link>http://joelglovier.com//writing/college-costs-and-roi</link>
+        <guid isPermaLink="true">http://joelglovier.com//writing/college-costs-and-roi</guid>
+      </item>
+    
+      <item>
+        <title>Design advice for developers</title>
+        <description>&lt;p&gt;I often talk to developers who say they feel bad about their level of design skill. In fact, a Redditor recently &lt;a href=&quot;http://www.reddit.com/r/webdev/comments/2l2e8a/overcoming_being_bad_at_web_design/&quot;&gt;posted as much&lt;/a&gt;, seeking advice about how he could improve his command of the discipline of design. I’ve encountered this question enough times to have some thoughts that may be helpful if improving design competency is your quest too.&lt;/p&gt;
+
+&lt;h3 id=&quot;developer--designer&quot;&gt;Developer != Designer&lt;/h3&gt;
+
+&lt;p&gt;As a native designer and immigrant developer, I appreciate people in the reverse position who seek to enhance their cross-disciplinary skill levels. While it can feel safe to operate primarily in the area of your strength, pushing yourself to round out your abilities - even if just for competency, and not for mastery - can bring lots of benefit to your primary strengths, too.&lt;/p&gt;
+
+&lt;p&gt;But one thing worth clearing up is that just because you are a good developer doesn’t mean that you should also necessarily be a good designer. The two are in fact completely different skill sets - at least for the purpose of comparing whether designers and developers should be good at both disciplines.&lt;/p&gt;
+
+&lt;p&gt;It can certainly be helpful to have some level of competency in both areas, but very rare is the person who has achieved a mastery of both development and design (i.e. could make a career out of either discipline).&lt;/p&gt;
+
+&lt;p&gt;That being said, if you really &lt;em&gt;want&lt;/em&gt; to improve at design, there are a number of things that you can do to learn and grow in that skill set, just like you might with any other skill set. Cultivating a level of competence in parallel fields is certainly a noble (if not extremely valuable) pursuit.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-does-design-matter-to-me&quot;&gt;Why does design matter to me?&lt;/h3&gt;
+
+&lt;p&gt;So why &lt;em&gt;should&lt;/em&gt; you seek to improve your command of design as a developer?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Because building software is a function of both disciplines.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Even though it may not be your primary responsibility to execute the design for the things you build, that design work needs to happen eventually, and if you as a developer are aware of what goes into that process, it can make the overall process more efficient, and more successful in the same way that being a designer with programming competency helps the people responsible for design to design things that work well once built.&lt;/p&gt;
+
+&lt;p&gt;For example, understanding the limitations or constraints of the codebase helps me know how to design things that won’t create major problems for the engineers implementing a solution on the backend to what I’ve designed for the front end. It also helps me to be able to prototype in ways that are more efficient.&lt;/p&gt;
+
+&lt;p&gt;Likewise, a developer building a feature before a designer has touched it will make the overall process more efficient if they have an awareness of the design goals beyond their work.&lt;/p&gt;
+
+&lt;h3 id=&quot;some-basic-advice&quot;&gt;Some basic advice&lt;/h3&gt;
+
+&lt;p&gt;In reflecting on how I’ve personally developed as a designer over the years, and what things have contributed the most to my growth as a designer, I can identify a handful of really basic things that could be helpful for anyone who wants to cultivate their own design skill level. These basic ideas are the things I think will help you most if you want to increase your design awareness.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-learn-what-even-is-good-design&quot;&gt;1. Learn what even is good design.&lt;/h2&gt;
+
+&lt;p&gt;Learn the basics of good design principles, look for them in action, and study them (&lt;em&gt;see resources below&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;There are &lt;a href=&quot;http://en.wikipedia.org/wiki/Design_elements_and_principles&quot;&gt;universal principles of design&lt;/a&gt; that are helpful to understand, and there are domain specific principles of design that are helpful to understand (e.g. product design, user experience design, marketing design, mobile design, responsive design, email design, etc).&lt;/p&gt;
+
+&lt;p&gt;If you are a developer at an agency, it might be worth your time to understand &lt;a href=&quot;https://developers.google.com/web/fundamentals/principles/index?hl=en&quot;&gt;web design&lt;/a&gt; and &lt;a href=&quot;http://www.lukew.com/ff/entry.asp?785&quot;&gt;marketing design&lt;/a&gt; best practices as it relates to the projects you are regularly working on. If you are an engineer at a product focused company, take some time to learn about patterns and best practices for &lt;a href=&quot;http://www.usability.gov/what-and-why/user-experience.html&quot;&gt;user&lt;/a&gt; &lt;a href=&quot;http://www.uxbooth.com/articles/making-and-breaking-ux-best-practices/&quot;&gt;experience&lt;/a&gt; &lt;a href=&quot;http://www.smashingmagazine.com/usability-and-user-experience/&quot;&gt;design&lt;/a&gt;, and &lt;a href=&quot;http://www.google.com/design/spec/material-design/introduction.html&quot;&gt;product design&lt;/a&gt;. If you’re building things that end up on mobile, take some time and understand what best practices for &lt;a href=&quot;http://punchcut.com/perspectives/best-practices-mobile-design/&quot;&gt;mobile design&lt;/a&gt; are.&lt;/p&gt;
+
+&lt;p&gt;Clearly, you can spend lots of time reading (which I find very helpful). But you can also spend time looking at examples of great design and study what makes it great. Just start by studying stuff that stands out to you, or visit sites like &lt;a href=&quot;https://dribbble.com/&quot;&gt;Dribbble&lt;/a&gt; or even &lt;a href=&quot;http://unmatchedstyle.com/&quot;&gt;CSS galleries&lt;/a&gt; that showcase examples of great design work.&lt;/p&gt;
+
+&lt;p&gt;Someone once told me if you want to learn to recognize a counterfeit banknote from a real one, you spend your time studying the real thing so you can recognize when something isn’t it. In the same way, studying examples of great design is a good way to recognize poor design practices when you see them.&lt;/p&gt;
+
+&lt;p&gt;Whether you spend time reading about good design, or studying examples of good design (hint: do both!), the important point here is you need to first be able to recognize what good design even is. If that’s the only thing you pick up, it will make a world of difference in increasing your design awareness.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-practice-practice-practice&quot;&gt;2. Practice. Practice. Practice.&lt;/h2&gt;
+
+&lt;p&gt;The order of this step is important. If you only know how to design poorly, your practice will generally only produce more poor design (unless you really are a natural designer). You need to start by building a mental framework for what constitutes good design, as described above.&lt;/p&gt;
+
+&lt;p&gt;But once you have begun to cultivate a sense for what good design even is, then the next step is to practice making things that manifest it.&lt;/p&gt;
+
+&lt;p&gt;Something I’ve done a lot to exercise and build my muscles (whether design muscles or development muscles) is take on a side project. It could be an open source project, some contracting work, or just something personal that nobody else ever sees. This gives you an opportunity to push your boundaries in a context where you feel safe exploring new territory (yeah, maybe not the contract setting just yet).&lt;/p&gt;
+
+&lt;h2 id=&quot;3-seek-out-critique&quot;&gt;3. Seek out critique.&lt;/h2&gt;
+
+&lt;p&gt;Ask people who are good designers to helpfully criticize your work, pointing where and how it can improve. Feedback from others is a really important part of the design process.&lt;/p&gt;
+
+&lt;p&gt;Note: everyone takes feedback/criticism differently. For some who put more of themselves into their work and find it hard to deal with criticism, it can be helpful to complete an entire iteration of your work and then seek feedback on the whole, rather than cumulatively along the way.&lt;/p&gt;
+
+&lt;p&gt;Regardless of how or when you get critical input, seek it out and make sure you get it from a respectable source. Getting off the cuff reactions from people who don’t have a sense for good design is rarely helpful, but getting meaningful input from objective parties with a sense for design will always help you see things differently, and help you keep growing.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-cultivate-a-style&quot;&gt;4. Cultivate a style.&lt;/h2&gt;
+
+&lt;p&gt;Design is a tool. Once you see it as such you can begin to think about what you need your tool to accomplish.&lt;/p&gt;
+
+&lt;p&gt;If you are a generalist and you work on lots of different types of projects, like a mechanic who needs many tools nearby you may need many styles of design at your disposal.&lt;/p&gt;
+
+&lt;p&gt;However, if you are a specialist and can get away with focusing your work in a specific area, you can focus on honing a particular style that ends up being your go to tool for solving design problems.&lt;/p&gt;
+
+&lt;p&gt;Since we are specifically talking about cultivating a secondary skill set in this discussion, I would suggest sticking with the later.&lt;/p&gt;
+
+&lt;p&gt;If you’re primary work is not actually design, you might find it more helpful to focus on a specific style of design and hone that style while you grow your overall design competence. Then, if you find later that you’re beginning to master some level of design you may want to explore new styles.&lt;/p&gt;
+
+&lt;p&gt;Either way, it really helps to think about and cultivate a style that works well for you, and that you can become proficient with.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-cultivate-your-taste&quot;&gt;5. Cultivate your taste.&lt;/h2&gt;
+
+&lt;p&gt;Much of design is really just about taste. Styles change, best practices evolve, but good taste is timeless.&lt;/p&gt;
+
+&lt;p&gt;Design taste, much like food taste, is a combination of preference and sophistication. Some of what strikes people as good is about preference, and some of what strikes people as good is about learning to recognize good patterns and practices regardless of whether they are your own preference.&lt;/p&gt;
+
+&lt;p&gt;Taste is different from style in that style is about execution, and taste is about appeal. Execution has unique characteristics, and generally abides by a set of certain executional principles.&lt;/p&gt;
+
+&lt;p&gt;Taste, however, is more about appealing to a general, universal realm of design principles. Any style can be executed in good taste, or poor taste.&lt;/p&gt;
+
+&lt;p&gt;Your own styles might not be the particular taste of everyone, but people should at least be able to look at your work and say it’s in good taste. And of course - as is the running theme here - you need to cultivate that taste before you can demonstrate it.&lt;/p&gt;
+
+&lt;h3 id=&quot;fin&quot;&gt;Fin&lt;/h3&gt;
+
+&lt;p&gt;Design, of course, is far more than just how things look. It’s how things are, why they are, where they are going, and what they are trying to solve. Design is a way of thinking about things, and it’s also a practical approach to solving problems.&lt;/p&gt;
+
+&lt;p&gt;Design is something I’m very passionate about because it’s universal. I hope you’ll invest some time expanding your design awareness and competence, and I hope these principles prove useful that endeavor.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;other-resources&quot;&gt;Other resources&lt;/h2&gt;
+
+&lt;p&gt;There really are a ton of great resources online for learning. So many that it can be hard to sift through and find the best ones. Here’s a list of some that I like. I’ll curate and maintain this list over time. If you have a great suggestion for something to add, &lt;a href=&quot;http://twitter.com/jglovier&quot;&gt;Tweet it to me&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;web-design--design-in-general&quot;&gt;Web design &amp;amp; design in general&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackdesign.org/&quot;&gt;HackDesign.org&lt;/a&gt; (design for programmers)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/web/fundamentals/&quot;&gt;Web Fundamentals&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/topics/design&quot;&gt;A List Apart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/&quot;&gt;Web Design Elements: Examples And Best Practices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.google.com/design/spec/layout/principles.html&quot;&gt;Layout Principles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://zurb.com/word/design-patterns&quot;&gt;Design Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Design-Is-Problem-Future-Sustainable/dp/1933820004/ref=tmm_pap_title_0?ie=UTF8&amp;amp;qid=1426184103&amp;amp;sr=1-1&quot;&gt;Design Is the Problem: The Future of Design Must be Sustainable&lt;/a&gt; by Nathan Shredoff&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Prototyping-Practitioners-Todd-Zaki-Warfel/dp/1933820217/ref=tmm_pap_title_0?ie=UTF8&amp;amp;qid=1426184160&amp;amp;sr=1-1&quot;&gt;Prototyping: A Practitioner’s Guide&lt;/a&gt; by Todd Zaki Warfel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;product-design&quot;&gt;Product design&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654&quot;&gt;The Design of Everyday Things&lt;/a&gt; by Don Norman&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.google.com/design/spec/material-design/introduction.html&quot;&gt;Material design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Card-Sorting-Designing-Usable-Categories/dp/1933820020/ref=pd_sim_b_2?ie=UTF8&amp;amp;refRID=0E3ACEJQ8NMCHFVWKSAN&quot;&gt;Card Sorting: Designing Usable Categories&lt;/a&gt; by Donna Spencer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5&quot;&gt;How to Work with PMs: A Cheat Sheet for Designers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;user-experience--usability&quot;&gt;User experience &amp;amp; usability&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515#&quot;&gt;Don’t Make Me Think&lt;/a&gt; by Steve Krug&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654&quot;&gt;The Design of Everyday Things&lt;/a&gt; by Don Norman&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.uxbooth.com/&quot;&gt;UXbooth.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/topics/user-experience&quot;&gt;A List Apart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nngroup.com/articles/&quot;&gt;Nielsen Norman Group blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nngroup.com/articles/usability-101-introduction-to-usability/&quot;&gt;Usability 101: Introduction to Usability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rosenfeldmedia.com/books/&quot;&gt;Rosenfeld Media books&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/1933820187/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687602&amp;amp;pf_rd_s=lpo-top-stripe-1&amp;amp;pf_rd_t=201&amp;amp;pf_rd_i=1933820063&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=1YB7M2ARKFB8SZSQGB0X&quot;&gt;The User Experience Team of One: A Research and Design Survival Guide&lt;/a&gt; by Leah Buley&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/193382011X/ref=pd_lpo_sbs_dp_ss_2?pf_rd_p=1944687602&amp;amp;pf_rd_s=lpo-top-stripe-1&amp;amp;pf_rd_t=201&amp;amp;pf_rd_i=1933820063&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=1YB7M2ARKFB8SZSQGB0X&quot;&gt;Interviewing Users: How to Uncover Compelling Insights&lt;/a&gt; by Steve Portigal&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Mental-Models-Aligning-Strategy-Behavior/dp/1933820063&quot;&gt;Mental Models: Aligning Design Strategy with Human Behavior&lt;/a&gt; by Indi Young&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.usability.gov/&quot;&gt;Usability.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;responsive-design&quot;&gt;Responsive design&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ethanmarcotte.com/#writing&quot;&gt;Ethan Marcotte’s&lt;/a&gt;  stuff&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://abookapart.com/products/responsive-web-design&quot;&gt;Responsive Web Design&lt;/a&gt; by Ethan Marcotte&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/&quot;&gt;Brad Frost’s&lt;/a&gt; stuff&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bradfrost.github.io/this-is-responsive/&quot;&gt;This is Responsive&lt;/a&gt; (responsive UI patterns)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://scottjehl.com/&quot;&gt;Scott Jehl’s&lt;/a&gt; stuff&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://abookapart.com/products/responsible-responsive-design&quot;&gt;Responsible Responsive Design&lt;/a&gt; by Scott Jehl&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://trentwalton.com/category/articles/&quot;&gt;Trent Walton’s stuff&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.filamentgroup.com/lab/&quot;&gt;Filament Group’s blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/topic/responsive-design&quot;&gt;A List Apart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;mobile-design&quot;&gt;Mobile design&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.lukew.com/&quot;&gt;Luke Wroblewski’s&lt;/a&gt; stuff (all of it, basically)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://punchcut.com/perspectives/best-practices-mobile-design/&quot;&gt;Best Practices for Mobile User Interface Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.uxpin.com/mobile-design-patterns.html&quot;&gt;Mobile UI Design Patterns 2014&lt;/a&gt; (book)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/topic/mobile-multidevice&quot;&gt;A List Apart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;email-design&quot;&gt;Email design&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mailchimp.com/resources/guides/&quot;&gt;MailChimp Guides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://litmus.com/blog/&quot;&gt;The Litmus blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Create-Stunning-HTML-Email-Works/dp/0980576865&quot;&gt;Create Stunning HTML Email That Just Works&lt;/a&gt; by Matthew Patterson&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://professionalemaildesign.com/&quot;&gt;Professional Email Design&lt;/a&gt; by Jason Rodriguez&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sitepoint.com/best-practice-email/&quot;&gt;Rules for Best Practice Email Design: Layout&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+        <link>http://joelglovier.com//writing/design-advice-for-developers</link>
+        <guid isPermaLink="true">http://joelglovier.com//writing/design-advice-for-developers</guid>
+      </item>
+    
+      <item>
+        <title>Why we fear</title>
+        <description>&lt;p&gt;Today I got some news that scared the shit out of me. Someone very close to me was diagnosed with cancer rather unexpectedly. My heart sunk, and it was like getting punched in the gut. I felt mostly shock, and then lots of processing.&lt;/p&gt;
+
+&lt;p&gt;Then, a bunch of emotions all flooded through me ranging from fear, to surprise, to sadness, to gratitude.&lt;/p&gt;
+
+&lt;p&gt;And then after a while, the feeling that stuck with me most was that I was scared.&lt;/p&gt;
+
+&lt;p&gt;There are very few things that scare me in life. Mostly just public toilets, and spiders.&lt;/p&gt;
+
+&lt;p&gt;In all honesty, I can’t remember the last time I was as scared as I was today when I received this news.&lt;/p&gt;
+
+&lt;p&gt;There are a number of reasons why I don’t usually experience fear. Some reasons are deep, like how my faith and trust in God usually leads to a profound sense of peace. Some are just practical, like how the fact that I’m a pretty big dude means I rarely feel unsafe in dangerous places (even if I am). And some are actually character flaws, like how my naivety and ignorance mean I don’t properly fear things I should (like jumping off of ski lifts).&lt;/p&gt;
+
+&lt;p&gt;But, why do I experience fear when I do? Honestly, it’s the same reason why most people experience fear: &lt;em&gt;the unknown&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The unknown is a scary thing. It forces you to confront reality and assumptions, which - if we are honest - we rarely do. Most of us live in a reality distortion field to at least some degree made up of our assumptions, biases, and prejudices which are rarely challenged to any meaningful degree.&lt;/p&gt;
+
+&lt;p&gt;The unknown forces you to acknowledge and face all of those things.&lt;/p&gt;
+
+&lt;p&gt;The unknown can be something like a cancer diagnosis, or the loss of a job, challenges to your beliefs, or a person you meet.&lt;/p&gt;
+
+&lt;p&gt;The unknown is all around us because - lets face it - most of what the universe &lt;em&gt;is&lt;/em&gt; is unknown. That’s not just astrophysical meta speculation, it’s a reality about the world in which we live. Our world is largely unknown, and we have only a small glimpse into very small parts of it.&lt;/p&gt;
+
+&lt;p&gt;For people of faith, even the Bible says as much when the New Testament writer says, “&lt;em&gt;for now we see through a glass darkly&lt;/em&gt;,” contrasting the ambiguity with which we understand things now in this age with the clarity with which we will know in the age to come.&lt;/p&gt;
+
+&lt;p&gt;In fact, people of faith in ancient traditions were very comfortable with the mystery and ambiguity of life in ways that led them to a greater awe and wonder for God. Yet, in our culture saturated with knowledge and information, we loathe the unknown - even fear it.&lt;/p&gt;
+
+&lt;p&gt;And I think that’s pretty normal. In fact, I think it’s healthy to fear the unknown. It’s what makes faith and trusting such a healthy thing for our souls (not to mention what kept our ancient ancestors from being eaten by sabertooth tigers and poisoned by beautiful-but-deadly plants).&lt;/p&gt;
+
+&lt;p&gt;Without the fear of the unknown, how would we realize the value of something worth trusting?&lt;/p&gt;
+
+&lt;p&gt;I’m still pretty scared. The coming weeks and months hold much for me and my family that are far beyond what I can imagine, even after talking with friends who have walked this journey before. I’m not expecting fear to go away, because the unknown will not go away.&lt;/p&gt;
+
+&lt;p&gt;But what I am expecting to do is get more comfortable with the unknown, trust that there is a purpose - and a God - who knows what I do not, and lean on the wonderful people around me who offer glimpses of hope in dark times. Because the unknown is part of life, and I really think it’s something that should be feared as a reminder of our limitations, cherished as an opportunity to break through those limitations, and embraced as part of what unites us as humans.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 28 Feb 2015 00:00:00 +0000</pubDate>
+        <link>http://joelglovier.com//writing/why-we-fear</link>
+        <guid isPermaLink="true">http://joelglovier.com//writing/why-we-fear</guid>
+      </item>
+    
+      <item>
+        <title>The value of originality</title>
+        <description>&lt;p&gt;A few months ago I was at &lt;a href=&quot;http://circlesconference.com/&quot;&gt;Circles Conference&lt;/a&gt; where I had a chance to join a panel of designers to talk about challenges we commonly face. One of the questions that intruiged me most was about the value of originality.&lt;/p&gt;
+
+&lt;p&gt;The question was:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;a popular Picasso Quote says, “Bad artists copy. Good artists steal.” Do you find truth in this, if so how does it apply to your approach to creating?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Its a good question, and a difficult one, because honestly I believe it all boils down to context. The value of originality in your work depends on the context of your work.&lt;/p&gt;
+
+&lt;p&gt;A good way to approach this question is to ask another question: what is the goal of the work I am doing, and what is it’s primary value? From that context we can properly assess the value of any particular aspect of our work, and how it fits into the larger value of the work.&lt;/p&gt;
+
+&lt;p&gt;Because originality is, after all, just one particular aspect of our work that we must determine the point of, and the value of. Effectiveness, cost, appeal, longevity, scalability - there are many other aspects which all must be balanced together to create any successful work.&lt;/p&gt;
+
+&lt;p&gt;Is the purpose of your work to inspire people? Why? Is the purpose to inspire them to a particular action (e.g. &lt;a href=&quot;http://en.wikipedia.org/wiki/Visual_marketing&quot;&gt;marketing design&lt;/a&gt;), or just to inspire a feeling or sentimate which may be connected with something else (e.g. &lt;a href=&quot;http://en.wikipedia.org/wiki/Corporate_identity&quot;&gt;branding design&lt;/a&gt;)?&lt;/p&gt;
+
+&lt;p&gt;Is the purpose of your work to comunicate information (e.g. &lt;a href=&quot;http://en.wikipedia.org/wiki/Information_design&quot;&gt;information design&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Service_design&quot;&gt;service design&lt;/a&gt;)? Is it to facilitate interactions or behaviors (e.g. &lt;a href=&quot;http://en.wikipedia.org/wiki/User_experience_design&quot;&gt;user experience design&lt;/a&gt;)? Is the purpose of your work to make a political statement (e.g. propoganda), or just to express emotion or ideas (e.g. fine art)?&lt;/p&gt;
+
+&lt;p&gt;Sometimes the value of originiateliy is critical to your overall objectives, and sometimes originality is extraneous to the point of your work.&lt;/p&gt;
+
+&lt;p&gt;As a designer I personally believe my work, purpose, and calling is to solve real problems. The problems come in many different flavors, and the solutions take many different forms. But it’s my responsibility to have the maturity and discernment to understand what the actual problem is I am trying to solve, and objectively let the pursuit of those solutions drive my decision making through every project.&lt;/p&gt;
+
+&lt;p&gt;For example, as a user experience designer, originality can actually be at odds with the goal I’m trying to achieve. Since the aim of my work is typically to faciliate workflows and user behaviors, utilizing commonly understood design patterns is typically a far more effective tool than inventing things users have not seen before, which can actually hinder people from being able to easily use the thing I create for them to use.&lt;/p&gt;
+
+&lt;p&gt;However, in the context of other creative work (marketing design, for example), originality can be a very important component because it aids the end goal, which is to capture attention or make people remember the message they saw.&lt;/p&gt;
+
+&lt;p&gt;Sometimes originality is a really valuable tool in the pursuit of a solution, and sometimes it’s a tool that plays only a supporting role, or no role at all. It’s your job as a designer to know the difference.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;PS - I’m going to be speaking at Circle’s Conf’s sibling for people who make the web, &lt;a href=&quot;http://squaresconference.com/&quot;&gt;Squares Conference&lt;/a&gt;, in March. &lt;a href=&quot;https://circlesco.com/conference/squares/registration/&quot;&gt;You should come&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+        <link>http://joelglovier.com//writing/the-value-of-originality</link>
+        <guid isPermaLink="true">http://joelglovier.com//writing/the-value-of-originality</guid>
+      </item>
+    
+      <item>
+        <title>Five simple goals for 2015</title>
+        <description>&lt;p&gt;Last year I set &lt;a href=&quot;/writing/five-simple-goals-for-2014/&quot;&gt;five simple personal goals for 2014&lt;/a&gt;. I wrote them on a chalkboard in a visible location in my office where I see them daily, and it was a helpful way of focusing myself throughout the year. So this year I’m doing it again.&lt;/p&gt;
+
+&lt;p&gt;I treat these goals less like checklist items to accomplish, and more like personal themes to help guide my behavior and actions every day. They are things I want to build into my life for the long run, not just things to get done.&lt;/p&gt;
+
+&lt;p&gt;As with last year’s list, some of them are practical and quantifiable, and others are more qualitative and ambiguous.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-be-healthy&quot;&gt;1. Be healthy.&lt;/h2&gt;
+
+&lt;p&gt;At 33, the aging process isn’t slowing down on me, and my body cannot do what it once could. I have kids that are growing up and I want to be able to be active with them for years to come. So I need to start being more intentional about my health.&lt;/p&gt;
+
+&lt;p&gt;I’d really like to lose my gut this year. The “shoot for the moon” version of this one is getting a six-pack, although that may not be realistic. The steps I’m taking toward this specific part are a three-day split gym routine with weight training and cardio, as well as modifying my diet (low carb and processed foods). If all goes well, I’ll write more about how it went later in the year.&lt;/p&gt;
+
+&lt;p&gt;I also need to get more rest, starting with aiming for a daily earlier bedtime (9pm would be great, but at least by 10:30pm), taking naps at least once or twice a week, and watching less TV in the evening (nights I’m not working on something I tend to just watch TV with Ashley, which is a terrible default for health and rest).&lt;/p&gt;
+
+&lt;p&gt;I also need to drink less alcohol and drink more water. I consume alcohol pretty moderately, but often I default to grabbing a beer or glass of bourbon when relaxing with Ashley in the evenings. However, making that a less frequent occurance will help cut carbs, and likely help me make it to the gym more often as I tend to fall asleep better after a couple drinks, but have a harder time waking early to workout.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-be-well-rounded&quot;&gt;2. Be well rounded.&lt;/h2&gt;
+
+&lt;p&gt;I’ve come to realize that I’m at a point in my life where my two primary priorities are work and family. Work and related pursuits tend to dominate the vast majority of my time, so my remaining time is usually spent with family.&lt;/p&gt;
+
+&lt;p&gt;Those are healthy priorities, but there’s a lot more to me as a person than work and family, and it tends to get smothered in the urgency of those two dominant aspects. So this year I really want to become more well rounded by making reasonable time for cultivating other aspects of my life, and better balancing the work and family priorities.&lt;/p&gt;
+
+&lt;p&gt;For one thing, I’m going to actively and intentionally cultivate a few of my hobbies. Snowboarding is something I’ve enjoyed for 20 years, but in the last five or six years I haven’t had a chance to pursue it more than a handful of times. Last year I got a new snowboard for the first time in 17 years, so this year I’m going to make it a goal to get out and snowboard ten or more times.&lt;/p&gt;
+
+&lt;p&gt;I’d also like to make more intentional time for some of my other interests like playing video games (while it’s something I enjoy, I’ll go months without playing a game), painting, DJing, and breakdancing.&lt;/p&gt;
+
+&lt;p&gt;One of the things I find really fulfilling but straddles the line of work/play is writing. I love writing, but even so it tends to get put on the backburner as evidenced by the amount of times I blogged last year. So this year my goal is to publish a blog post once a month.&lt;/p&gt;
+
+&lt;p&gt;And finally, I’m going to commit myself to 10 hours of dedicated learning time/month. I’ve been meaning to brush up on my JS and Ruby/Rails skills for a while, but haven’t made any dedicated time toward the effort. I tend to learn new things with every project I work on, and read stuff in the natural course of my work day, but if I really want to make meaningful advances in my skillset I need to make some dedicated time for learning monthly.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-simplify&quot;&gt;3. Simplify.&lt;/h2&gt;
+
+&lt;p&gt;Organization and simplicity are things I value deeply as a design minded person. However, they are not things that come naturally to me. My mind and life are characterized by divergence more than convergence, so I want to work to simplify my world as much as I can.&lt;/p&gt;
+
+&lt;p&gt;To this end, last year I made two goals: saying no to more things, and operating daily with less than 10 browser tabs. Those goals were effective, so I want to keep them and build on them this year.&lt;/p&gt;
+
+&lt;p&gt;I struggle with physical space organization, so I’m also going to work on keeping my office clean. I want to assign everything a purpose and a place, and if it doesn’t have either of those I need to get rid of it.&lt;/p&gt;
+
+&lt;p&gt;To the end of simplicity, I also want to strive more to live within my means.&lt;/p&gt;
+
+&lt;p&gt;We have struggled with that in the past at least in part because of the way we were managing our finances, but we started using &lt;a href=&quot;http://www.youneedabudget.com/&quot;&gt;YNAB&lt;/a&gt; this year to help live within our budget.&lt;/p&gt;
+
+&lt;p&gt;So far, so good. I’m really enjoying thinking of income with the “every dollar has a job” approach, and value being in constant communication with Ashley about what to do with our money/how it has been spent. It’s good for our finances and our marriage, it seems (although we’ve only been doing it for two weeks, so check with me in 6 mo for a better conclusion).&lt;/p&gt;
+
+&lt;h2 id=&quot;4-finish-things&quot;&gt;4. Finish things.&lt;/h2&gt;
+
+&lt;p&gt;Related to simplifying, and my tendency toward divergent thinking/attention/behavior, I want to make finishing an intentional theme for this year. The most urgent and important things get finished, but I have a lot of things in my life that are only important but not urgent that tend to go unfinished.&lt;/p&gt;
+
+&lt;p&gt;That’s a behavior that I want to adjust. I strive to be a finisher, and to ship things. So to this end I’m recommiting to saying no to more things and taking on less, and to getting rid of stuff.&lt;/p&gt;
+
+&lt;p&gt;It’s not a complicated theme, just one that will take discipline, focus, and commitment.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-give-more-of-myself-to-others&quot;&gt;5. Give more of myself to others.&lt;/h2&gt;
+
+&lt;p&gt;Any list of themes that just includes myself is one which is far too self-centered to be healthy for my soul. So my final theme for this year is to give more of myself to others in meaningful ways. This goal might sound ambiguous (and it certainly can be), but there are several very practical ways that I intend to implement toward it’s end.&lt;/p&gt;
+
+&lt;p&gt;I’m going to give more of my time and attention to my kids. Since we are a one income family, and Ashley cares for the kids daily, there is a very disproportionate amount of time they spend with her versus me. It’s a fact of the stage of life we are in, but a fact I don’t love and one I want to change at least to some degree. With saying no to more things this year, my desire is that I’ll have more time to give to being with my kids who I love and enjoy so very much.&lt;/p&gt;
+
+&lt;p&gt;I also want to be more intentional about how I engage with Ashley. Communicating with her more thoughtfully. Intentionally cultivating the romance in our relationship which - to be honest - since having kids has radically dwindled (though we are amazing friends at this point in our life, just little time/attention for romance). Trying to take initiative to plan things for us or for the family. And generally being more thoughtfully involved in her life.&lt;/p&gt;
+
+&lt;p&gt;And finally, I want to cultivate more of the meaningful external relationships in my life. That means taking more time to think of others, reach out to communicate with them, and spend time being involved in their lives.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-journey-and-the-destination&quot;&gt;The journey and the destination&lt;/h2&gt;
+
+&lt;p&gt;As I mentioned, this list for me is more a list of themes than goals. While it certainly does contain some measurable goals, the point here is to have some themes for my journey this year.&lt;/p&gt;
+
+&lt;p&gt;I’m really sold on the idea that the journey of life is just as important as the destination. Goals are like reaching destinations. While they are certainly important, the journey is just as important. And every good journey needs themes that act like guideposts to help you reach the destination.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
+        <link>http://joelglovier.com//writing/five-simple-goals-for-2015</link>
+        <guid isPermaLink="true">http://joelglovier.com//writing/five-simple-goals-for-2015</guid>
+      </item>
+    
+  </channel>
+</rss>
