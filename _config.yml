@@ -7,11 +7,13 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
+name:             LUCAS blog 
 title:            Laboratory of Urban Complexity and Sustainability
 tagline:          'LUCAS'
 description:      'News and updates from the University of Nottingham LUCAS group'
 url:              https://lucas-uk.github.io
 baseurl:          /
+
 
 author:
   name:           'LUCAS-blog'
