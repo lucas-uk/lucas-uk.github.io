@@ -1,0 +1,12 @@
+---
+layout: post
+title: Mining households' energy data to disclose fuel poverty - Lessons for Southern Europe
+---
+
+[Gavin Long](https://www.nottingham.ac.uk/engineering/departments/abe/people/gavin.long) co-authored a paper to be published in the March 2018 edition of the [Journal of Cleaner Production](https://www.sciencedirect.com/science/journal/09596526). The paper combines actual energy use data from smart meters with energy demand predictions generated from building energy simulations and household surveys carried out under the [InSmart](http://www.insmartenergy.com/) project. 
+
+Abstract:
+>*Fuel poverty is a recognized and increasing problem in several European countries. A growing body of literature covers this topic, but dedicated analysis for Portugal is scarce despite the high perception of this condition. This paper contributes to fill this knowledge gap focusing on a European southern city while bringing new datasets and analysis to the assessment of this topic; consumer groups identification and to policy discussion. Daily electricity smart meters' registries were combined with socio-economic data, collected from door-to-door surveys, to understand the extent and the determinants of energy consumption for two contrasting consumer groups (herein called fuel poverty and fuel obesity groups). The analysis is based on the amount and annual profile of electricity consumption and was complemented with building energy simulations for relevant building typologies in those groups, to identify heating and cooling thermal performance gaps. Results disclose socio-economic variables, as income, and consumers' behaviour as key determinants of electricity consumption. It was identified a severe lack of thermal comfort levels inside households of both groups, either in cooling (98% for fuel poverty and 87% for fuel obesity) and heating seasons (98% for fuel poverty and 94% for fuel obesity). Major conclusion refers that electricity consumption cannot be used alone to segment consumer groups. This assessment may serve to support energy policy measures and instruments targeted to different consumers' groups.*
+
+Early access to full paper is available at:
+[https://authors.elsevier.com/c/1WWD03QCo9Q~jl](https://authors.elsevier.com/c/1WWD03QCo9Q~jl)
