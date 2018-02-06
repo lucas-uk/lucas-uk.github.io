@@ -29,5 +29,4 @@ github:
  repo:           https://github.com/lucas-uk/
 
 gems:
-  - jekyll-paginate
   - jekyll-seo-tag
