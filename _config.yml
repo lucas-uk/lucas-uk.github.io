@@ -20,7 +20,7 @@ author:
   url:            https://nottingham.ac.uk/research/groups/lucas/index.aspx
   email:          lucas-info@nottingham.ac.uk
 
-paginate:         5
+paginate:         1
 
 # Custom vars
 version:          2.1.0
