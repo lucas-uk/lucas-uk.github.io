@@ -3,11 +3,10 @@ layout: post
 title: Lei Xie at Urban Transitions 2018
 ---
 
-By [Lei Xie](https://www.nottingham.ac.uk/sociology/people/lei.xie)
-
 Sustainable city is a multi-faceted and contested concept which is recognized differently by different actors. Public participation is considered an essential part of sustainable urban governance, where citizens are being included in specific ways in shaping understandings of the priorities and pressures of urban development, service delivery, and the future of the urban area. Public participation has been incorporated into sustainable development policy processes in cities around the world, although the rationale, motivations and methods of such practices vary in different socio-political and economic conditions.
 
-I am going to attend [Urban Transitions](https://www.elsevier.com/events/conferences/urban-transitions) conference in Barcelona this November. Its main theme is Integrating Urban and Transport Planning, Environment and Health for Healthier Urban Living.
+[Lei Xie](https://www.nottingham.ac.uk/sociology/people/lei.xie)
+is going to attend [Urban Transitions](https://www.elsevier.com/events/conferences/urban-transitions) conference in Barcelona this November. Its main theme is Integrating Urban and Transport Planning, Environment and Health for Healthier Urban Living.
 
 Adopting three cases spanning two continents, Shanghai, Nottingham and Stuttgart (Germany) offer a context of sharp contrast regarding urban scale, administrative and political culture, understandings of urban sustainability, economic development and public resources. This article aims to understand the rationales and outcomes of public participation in these highly varied cities, focusing on a public citizens’ survey utilised by all three city authorities. Triangulation methods are used and include document analysis, semi-structured interviews with government officials and civil society organizations. This paper provides an early discussion on the emerging findings of this ongoing research project. 
 
